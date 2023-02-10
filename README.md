@@ -21,7 +21,7 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
  - Assistant Engineer: 1,090
  - Manager: 2
  
- "C:\Users\Upt0w\OneDrive\Desktop\Data Bootcamp Class Folder\Github Repositories\Pewlett-Hackard-Analysis\Analysis Images\Potential Retirees by Title.png"
+ ![Potential Retirees by Title](https://github.com/Caracalla1081/Pewlett-Hackard-Analysis/blob/main/Analysis%20Images/Potential%20Retirees%20by%20Title.png)
 ### Total about 2% of Pewlett-Hackard staff is approaching retirement age.
 
 ### Current potential mentorship count by title:
@@ -36,12 +36,17 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
 ### Less than 1% of retiring staff is eligible for mentortship by the paramaters set.
 
 ## Summary
-Based on the analysis completed during this project, the following questions can definitely be answered: "How many roles will need to be filled as the 'silver tsunami' begins to make an impact?" and "Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
+Based on the analysis completed during this project, the following questions can be answered: "How many roles will need to be filled as the 'silver tsunami' begins to make an impact?" and "Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
   - 133,776
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
   - At a glance no, but the analysis above does not look into current staff not yet in that retirement range who can be mentors, or even do any retiring staff have former positions that they can then be a mentor for as well.
-  - One query that might help gain greater insight to exactly how much "senior" or "leader" staff Hewlett-Packard could lose is to run queries that gather employees that are in positions we looked at approaching retirement age, and those younger that could be promoted or used as mentors.
 
-- 
+- What can't be answered as easily is the distribution of retirement age employess across departments. This would be helpful in allocating the limited mentor roles to departments that may see more severe losses, or also help upper management prioritize hiring or promotion decisions by department.
+  - See query "Senior Employees Ten Year or More Away From Retirement Radar by Department" in queries folder.
+
+- One query that might help gain greater insight to exactly how much "senior" or "leader" staff Hewlett-Packard could lose is to run queries that gather employees that are in positions of seniority or leadership, but are not yet approaching retirement age. (See "Senior Employees Ten Years or more Away from Retirement Radar.sql" in queries folder)
+  - This insight also can assist in prioritizing which departments or positions should be prioritized, as well as offering a list of potential candidates to fill roles being vacated due to retirement.
+- Another major point from the analysis is that Pewlett-Hackard has two managers approaching retirement age (See "Potential Retirees by Title" above), but neither qualify for mentorship. 
+  - This will need to be remedied, potentially by not adhering to the current parameters set for mentorship as tightly.
