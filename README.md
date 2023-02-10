@@ -32,8 +32,7 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
 - Assistant Engineer: 78
 - Technique Leader: 77
 
-C:\Users\Upt0w\OneDrive\Desktop\Data Bootcamp Class Folder\Github Repositories\Pewlett-Hackard-Analysis\Analysis Images\Potential Retirees by Title.png
- 
+![Mentorship Eligibility]("C:\Users\Upt0w\OneDrive\Desktop\Data Bootcamp Class Folder\Github Repositories\Pewlett-Hackard-Analysis\Analysis Images\Mentorship Eligibility.png")
 
 ## Summary
 Based on the analysis completed during this project, the following questions can definitely be answered: "How many roles will need to be filled as the 'silver tsunami' begins to make an impact?" and "Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
