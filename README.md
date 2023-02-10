@@ -32,7 +32,7 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
 - Assistant Engineer: 78
 - Technique Leader: 77
 
- "C:\Users\Upt0w\OneDrive\Desktop\Data Bootcamp Class Folder\Github Repositories\Pewlett-Hackard-Analysis\Analysis Images\Mentorship Eligibility.png"
+ Analysis Images/Mentorship Eligibility.png
  ### Less than 1% of staff approaching retirement are eligible to be mentors.
  
 
