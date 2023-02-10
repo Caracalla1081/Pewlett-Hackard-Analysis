@@ -22,7 +22,7 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
  - Manager: 2
  
  ![Potential Retirees by Title](https://github.com/Caracalla1081/Pewlett-Hackard-Analysis/blob/main/Analysis%20Images/Potential%20Retirees%20by%20Title.png)
-### Total about 2% of Pewlett-Hackard staff is approaching retirement age.
+### - Total about 2% of Pewlett-Hackard staff is approaching retirement age.
 
 ### Current potential mentorship count by title:
 - Senior Staff: 569
@@ -33,7 +33,7 @@ The purpose of this analysis is to provide HR analyst Bobby with the following:
 - Technique Leader: 77
 
 ![Mentorship Eligibility](https://github.com/Caracalla1081/Pewlett-Hackard-Analysis/blob/main/Analysis%20Images/Mentorship%20Eligibility.png)
-### Less than 1% of retiring staff is eligible for mentortship by the paramaters set.
+### - Less than 1% of retiring staff is eligible for mentortship by the paramaters set.
 
 ## Summary
 Based on the analysis completed during this project, the following questions can be answered: "How many roles will need to be filled as the 'silver tsunami' begins to make an impact?" and "Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
